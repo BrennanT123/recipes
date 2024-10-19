@@ -1,0 +1,48 @@
+.cell
+{
+    background-color: rgb(184, 182, 182);
+    width: auto;
+}
+
+.rec-img
+{
+    height:310px;
+    width: auto;
+}
+.rec-button
+{
+    width: 100%;
+    font-size: 24px;
+    font-family: "Arial", sans-serif;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: .5em;
+    border: 2px;
+    border-style:groove;
+    border-radius: 10px;
+    margin: 0px;
+}
+
+.rec-button:hover
+{
+    background-color: rgb(99, 98, 98);
+}
+.recipes-title{
+    color: red;
+    text-align: center;
+
+}
+
+.recipes-list{
+    margin:auto;
+    box-sizing: border-box;
+    border: 1em;
+    border-color: black;
+    border-style: inset;
+    border-radius: 10px;
+
+}
+
+.body1{
+background-color: bisque;
+}
